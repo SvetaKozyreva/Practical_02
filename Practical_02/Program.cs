@@ -6,6 +6,7 @@ namespace Practical_02
     {
         static void Main(string[] args)
         {
+            //1
             Console.WriteLine("Login:");
             string login = Console.ReadLine();
 
@@ -19,6 +20,10 @@ namespace Practical_02
             {
                 Console.WriteLine("Логін некоректний. Він повинен містити від 2 до 10 символів, тільки літери і цифри, і не починатися з цифри.");
             }
+
+            //2
+
+            
         }
     }
 }
